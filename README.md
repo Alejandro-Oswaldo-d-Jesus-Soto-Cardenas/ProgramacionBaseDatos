@@ -1,5 +1,4 @@
 # ProgramacionBaseDatos
-
 Skip to content
 Navigation Menu
 Alejandro-Oswaldo-d-Jesus-Soto-Cardenas
