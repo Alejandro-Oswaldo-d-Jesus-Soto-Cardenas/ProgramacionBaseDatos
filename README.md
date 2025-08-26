@@ -1,42 +1,6 @@
 # ProgramacionBaseDatos
-Skip to content
-Navigation Menu
-Alejandro-Oswaldo-d-Jesus-Soto-Cardenas
-ProgramacionBaseDatos
 
-Type / to search
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Owner avatar
-ProgramacionBaseDatos
-Public
-Alejandro-Oswaldo-d-Jesus-Soto-Cardenas/ProgramacionBaseDatos
-codespace-legendary-capybara-97q5w56g7g653x6p4 had recent pushes 18 seconds ago
-Go to file
-t
-This branch is 1 commit ahead of main.
-#1
-Name		
-AraceliChumacero
-AraceliChumacero
-Update README.md
-a3bedeb
- · 
-5 hours ago
-README.md
-Update README.md
-5 hours ago
-Repository files navigation
-README
-Pasos para implementar una base de datos en SQL Server 2022 1 Primero lo que hacemos es descargar la imagen de SQL Server 2022 para poder inicializar con nuestra implementación.
+# Pasos para implementar una base de datos en SQL Server 2022 1 Primero lo que hacemos es descargar la imagen de SQL Server 2022 para poder inicializar con nuestra implementación.
 
 docker rmi mcr.microsoft.com/mssql/server:2022-latest
 
